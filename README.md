@@ -18,6 +18,7 @@ Dates 1/6-1/12 2021
 
 ![August Stats](MS_WI_QM_August_stats.png)
 
+Link to Backtest: https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_838a8ba06e69f032018077e6137d8aad.html
 
 ## Phase 1
 **Define Risk Model to trigger liquiation on portfolio losses.**
