@@ -14,6 +14,9 @@ Dates 1/6-1/12 2021
 ## Performance
 **Month of August 2020**
 
+![August Graph](MS_WI_QM_August_graph.png)
+
+![August Stats](MS_WI_QM_August_stats.png)
 
 
 ## Phase 1
